@@ -1,0 +1,17 @@
+## Data Processing
+pandas
+numpy
+matplotlib
+seaborn
+
+## LLM
+openai
+
+## Data
+datasets
+
+## AI
+dspy-ai
+
+## Environment Variables
+python-dotenv
