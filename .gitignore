@@ -7,7 +7,7 @@ env.bak/
 venv.bak/
 
 # Image files
-*.png
+# *.png
 *.jpg
 *.jpeg
 *.gif
