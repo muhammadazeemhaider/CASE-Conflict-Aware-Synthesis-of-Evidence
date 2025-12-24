@@ -21,3 +21,7 @@ Once the advocate agent retrieves all the evidence for its hypothesis, all the r
 ## About this Project
 
 The dataset for this project was Bar Exam QA and the generative model of choice was Llama3:70B. Inferencing was carried out using OpenRouter.
+
+## Note
+
+The project was a collaboration of a team of six. CASE is the semester project for CS 646 Information Retrieval at UMass Amherst.
